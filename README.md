@@ -20,10 +20,11 @@
 > * Storage: At least 10GB of free space
 > * Network: Reliable internet connection (With Public IP address)
 >
-> Before beginning the installation, you should generate key pair on this : [Website](https://kadena-community.github.io/kadena-tools)
+> Before beginning the installation, you should generate key pair on this [Website](https://kadena-community.github.io/kadena-tools)
 > 
-> Click generate keypair, download, and backup them all
-> The file contain your kadena wallet address (mark as public), and private key (mark as secret)
+> * Click generate keypair, download, and backup them all
+>
+> * The file contain your kadena wallet address (mark as public), and private key (mark as secret)
 > 
 
 > [!NOTE]
