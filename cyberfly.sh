@@ -14,7 +14,7 @@ command -v docker >/dev/null 2>&1 || { echo >&2 "Docker is not found on this mac
 
 
 myHeader;
-read -p "Submit your kadena address: " kadenaAddr;
+read -p "Submit your kadena address : " kadenaAddr;
 until [ -n $kadenaAddr ];
 do
 myHeader
