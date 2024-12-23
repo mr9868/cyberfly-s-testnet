@@ -29,6 +29,7 @@ echo "Submit your kadena address : ${kadenaAddr}";
 echo "Private key cannot be NULL !"
 read -p "Submit your kadena private key : " privKey;
 done
+sudo ufw allow 31000
 
 git clone https://github.com/cyberfly-io/cyberfly-node-docker.git
 cd cyberfly-node-docker
