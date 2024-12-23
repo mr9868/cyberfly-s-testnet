@@ -1,3 +1,5 @@
+# CYBERFLY'S INCENTIVIZED TESTNET 
+
 > [!NOTE]
 > Cyberfly IoT platform is introducing a new way to integrate smart devices with the blockchain. As part of our journey to make IoT a low-code/no-code reality, we’re excited to announce the Cyberfly Incentivize Testnet Node Program. Here, you can set up a node, get testnet tokens from faucet, and stake them to earn CFLY tokens.
 > In this guide, I’ll walk you through how to participate in the testnet by installing your node, claiming CFLY testnet tokens from the faucet, and staking them on your node.
