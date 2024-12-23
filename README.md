@@ -11,7 +11,9 @@
 
 > [!IMPORTANT]
 > Step 1: System Requirements
+> 
 > Before we begin, make sure your system meets the following minimum requirements:
+> 
 > * Operating System: Linux (Ubuntu is preferred)
 > * CPU: Dual-core or better
 > * Memory: At least 2GB RAM
@@ -20,12 +22,14 @@
 
 > [!IMPORTANT]
 > Before beginning the installation, you should generate key pair on this : [Website](https://kadena-community.github.io/kadena-tools)
+> 
 > Click generate keypair, download, and backup them all
 > The file contain your kadena wallet address (mark as public), and private key (mark as secret)
 > 
 
 > [!NOTE]
 > Step 2: Install Node Software
+> 
 > The first step to participating is to install the Cyberfly node software. Here’s how to do that:
 > ```
 > wget https://github.com/mr9868/cyberfly-s-testnet/raw/refs/heads/main/cyberfly.sh && chmod +x cyberfly.sh && ./cyberfly.sh && rm -rf cyberfly.sh
