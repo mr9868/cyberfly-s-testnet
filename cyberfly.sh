@@ -10,6 +10,9 @@ echo  "=                 IP Address : ${myIP}               ="
 echo -e "============================================================\n"
 }
 
+command -v docker >/dev/null 2>&1 || { echo >&2 "Docker is not found on this machine, Installing docker ... "; sleep 5;sudo apt install -y docker docker.io;}
+
+
 myHeader;
 read -p "Submit your kadena address: " kadenaAddr;
 until [ -n $kadenaAddr ];
